@@ -223,8 +223,9 @@ movie_review_api/
 
 ```bash
 # Clone the repository
-git clone https://github.com/kingfetson/movie-review-api.git
-cd movie-review-api
+https://github.com/kingfetson/BE-Capstone-Projects.git
+cd movie-review-api/
+cd Recipe_Management_API
 
 # Create virtual environment
 python -m venv venv
