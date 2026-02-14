@@ -12,3 +12,7 @@ Backend API built with Django and Django REST Framework.
 - Django
 - Django REST Framework
 - SQLite (dev)
+
+##### Activate codespace environment
+python3 -m venv venv
+source venv/bin/activate
