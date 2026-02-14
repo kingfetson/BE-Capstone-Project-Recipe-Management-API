@@ -10,3 +10,8 @@ __pycache__/
 
 # Database (optional for dev)
 db.sqlite3
+<<<<<<< HEAD
+=======
+
+source
+>>>>>>> bc9ff1d (Add .gitignore and remove virtual environment)
